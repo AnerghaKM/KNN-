@@ -1,2 +1,2 @@
 
-![](KNN-/knn/KNN.png)
+![](KNN-/knn/KNN.PNG)
